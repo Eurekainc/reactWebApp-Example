@@ -11,7 +11,7 @@ I have created this application by following the steps given on React's website.
 4. ReactJS as the UI library at the front end for a very simple commenting system.
 
 ### TODO:
-1. Use Redux - a library which will enable to use the UI development paradigm supported by Facebook.
+1. Use Redux - a library which will enable to use the UI development paradigm recommended by Facebook.
 
 
 ### Running the application:
