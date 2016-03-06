@@ -19,4 +19,5 @@ I have created this application by following the steps given on React's website.
 2. Make sure you have Node.js version of atleast 4.0
 3. Run npm install in the project root directory.
 4. Open a shell in the root directory and issue the command `npm start`
+5. Point your browser to http://localhost:3000
 
